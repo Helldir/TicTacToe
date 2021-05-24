@@ -12,6 +12,7 @@ SOURCES += \
     UI/dialog.cpp \
     UI/mainwindow.cpp \
     src/Game/game.cpp \
+    src/Map/map.cpp \
     src/Opponent/opponent.cpp \
     src/Player/player.cpp \
     src/main.cpp
@@ -20,6 +21,7 @@ HEADERS += \
     UI/dialog.h \
     UI/mainwindow.h \
     src/Game/game.h \
+    src/Map/map.h \
     src/Opponent/opponent.h \
     src/Player/player.h
 
